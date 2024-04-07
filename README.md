@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working as a front-end developer
-- 🌱 I’m currently learning React.js, TypeScript and Node.js
 - 😄 Pronouns: She/Her
 
 <div align="center">

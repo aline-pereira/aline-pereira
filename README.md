@@ -3,7 +3,7 @@
 ### Hi there, I'm Aline Pereira 👋
 
 
-- 🔭 I’m currently working as a front-end developer
+- 🔭 I’m currently working as a Software Engineer
 - 😄 Pronouns: She/Her
 
 <div align="center">
@@ -13,8 +13,7 @@
 </div>
  
 <div> 
-  <a href="https://instagram.com/__aliinesantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pereiraline.aps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:aline.g7.aa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-pereira010/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
